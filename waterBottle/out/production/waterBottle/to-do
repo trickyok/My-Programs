@@ -1,0 +1,6 @@
+waterBottle.java
+
+
+- convert percentage to double for more accurate measurements
+
+- *BUG* water measurement doesnt revert back to mL after it reaches 0%
