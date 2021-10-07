@@ -3,18 +3,6 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 
-/* BUGS:
-
-Does not convert back to mL if it goes below L
-usually when the bottle becomes empty
-
-maybe convert percentage into a double instead for more
-accurate measurements
- */
-
-
-
-
 /* Gage Farmer
 10/5/21
 Fill up and empty a water bottle lol
